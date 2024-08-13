@@ -2,7 +2,7 @@
 
 # Quantum K-Nearest Neighbors (Quantum-KNN)
 
-This project implements a K-Nearest Neighbors (KNN) classifier enhanced with quantum computing techniques. The core of the project is a hybrid approach that combines classical machine learning with quantum computing, utilizing Grover's Algorithm for efficient nearest neighbor search.
+This project implements a K-Nearest Neighbors (KNN) classifier enhanced with quantum computing techniques. The core of the project is a hybrid approach that combines classical machine learning with quantum computing, utilizing quantum circuits, states and Grover's Algorithm for efficient nearest neighbor search.
 
 
 ![Google Sholar AUTOMATION Demo](https://github.com/benny-png/Scratch-Implementation-of-KNN-Algorithm-leveraging-QUANTUM-COMPUTING/blob/main/files/Figure_1.png)
