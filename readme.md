@@ -9,18 +9,25 @@ This project implements a K-Nearest Neighbors (KNN) classifier enhanced with qua
 
 ## Project Structure
 
-```bash
-Quantum-KNN/
-├── quantum_processes/
-│ ├── init.py
-│ ├── encoding.py
-│ ├── distance.py
-│ └── grover_search.py
-└── classical_processes/
-├── init.py
-├── knn_logic.py
-└── data_preprocessing.py
 ```
+Quantum-KNN/
+│
+├── quantum_processes/
+│   ├── __init__.py
+│   ├── encoding.py        # Quantum state preparation and encoding functions
+│   ├── distance.py        # Quantum distance calculation functions
+│   ├── grover_search.py   # Implementation of Grover's algorithm for nearest neighbor search
+│
+├── classical_processes/
+│   ├── __init__.py
+│   ├── knn_logic.py       # KNN classification logic (sorting, voting)
+│   ├── data_preprocessing.py  # Data scaling and preparation
+│
+├── main.py                # Main script to run the quantum KNN classification
+├── requirements.txt       # Dependencies and required libraries
+└── .gitignore             # Files and directories to ignore in version control
+```
+
 
 ## Features
 
