@@ -4,8 +4,7 @@
 
 This project implements a K-Nearest Neighbors (KNN) classifier enhanced with quantum computing techniques. The core of the project is a hybrid approach that combines classical machine learning with quantum computing, utilizing Grover's Algorithm for efficient nearest neighbor search.
 
-![Figure 1](files/Figure_1.png)
-
+![Figure 1](https://github.com/benny-png/Scratch-Implementation-of-KNN-Algorithm-leveraging-QUANTUM-COMPUTING/blob/main/files/Figure_1.png)
 
 ## Project Structure
 
