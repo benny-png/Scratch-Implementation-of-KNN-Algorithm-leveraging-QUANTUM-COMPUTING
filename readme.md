@@ -9,7 +9,7 @@ This project implements a K-Nearest Neighbors (KNN) classifier enhanced with qua
 
 ## Project Structure
 
-
+```bash
 Quantum-KNN/
 ├── quantum_processes/
 │ ├── init.py
@@ -20,7 +20,7 @@ Quantum-KNN/
 ├── init.py
 ├── knn_logic.py
 └── data_preprocessing.py
-
+```
 
 ## Features
 
