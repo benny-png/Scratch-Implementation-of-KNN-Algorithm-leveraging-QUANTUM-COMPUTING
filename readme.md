@@ -10,6 +10,9 @@ This project implements a K-Nearest Neighbors (KNN) classifier enhanced with qua
 ## Project Structure
 
 
+## Project Structure
+
+```
 Quantum-KNN/
 │
 ├── quantum_processes/
@@ -26,6 +29,7 @@ Quantum-KNN/
 ├── main.py                # Main script to run the quantum KNN classification
 ├── requirements.txt       # Dependencies and required libraries
 └── .gitignore             # Files and directories to ignore in version control
+```
 
 
 ## Features
