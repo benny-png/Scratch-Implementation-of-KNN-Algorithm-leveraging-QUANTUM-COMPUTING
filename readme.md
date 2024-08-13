@@ -10,8 +10,6 @@ This project implements a K-Nearest Neighbors (KNN) classifier enhanced with qua
 ## Project Structure
 
 
-## Project Structure
-
 ```
 Quantum-KNN/
 │
