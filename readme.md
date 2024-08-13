@@ -10,20 +10,16 @@ This project implements a K-Nearest Neighbors (KNN) classifier enhanced with qua
 ## Project Structure
 
 
-project:
-  name: Quantum K-Nearest Neighbors
-  description: >
-    This project implements a K-Nearest Neighbors (KNN) classifier enhanced with quantum computing techniques.
-  structure:
-    - quantum_processes:
-        - __init__.py
-        - encoding.py
-        - distance.py
-        - grover_search.py
-    - classical_processes:
-        - __init__.py
-        - knn_logic.py
-        - data_preprocessing.py
+Quantum-KNN/
+├── quantum_processes/
+│ ├── init.py
+│ ├── encoding.py
+│ ├── distance.py
+│ └── grover_search.py
+└── classical_processes/
+├── init.py
+├── knn_logic.py
+└── data_preprocessing.py
 
 
 ## Features
