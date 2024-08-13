@@ -5,12 +5,11 @@
 This project implements a K-Nearest Neighbors (KNN) classifier enhanced with quantum computing techniques. The core of the project is a hybrid approach that combines classical machine learning with quantum computing, utilizing Grover's Algorithm for efficient nearest neighbor search.
 
 
-
 ![Google Sholar AUTOMATION Demo](https://github.com/benny-png/Scratch-Implementation-of-KNN-Algorithm-leveraging-QUANTUM-COMPUTING/blob/main/files/Figure_1.png)
 
 ## Project Structure
 
-```
+
 Quantum-KNN/
 │
 ├── quantum_processes/
@@ -27,7 +26,7 @@ Quantum-KNN/
 ├── main.py                # Main script to run the quantum KNN classification
 ├── requirements.txt       # Dependencies and required libraries
 └── .gitignore             # Files and directories to ignore in version control
-```
+
 
 ## Features
 
